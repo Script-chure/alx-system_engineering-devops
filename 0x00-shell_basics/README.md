@@ -15,4 +15,8 @@ hidden files.
 12- Prints the type of the file named iamafile.
 13- Creates a symbolic link to /bin/ls.
 14- Coping only the HTML files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory, from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
-15-
+15- Moves all files beginning with an uppercase letter.
+16- Delets all files in the current working directory that end with the character ~.
+17- Creates a set directories.
+18- Lists all the files and directories of the current directory, separated by commas (,).
+19- Create a magic file school.mgc.
