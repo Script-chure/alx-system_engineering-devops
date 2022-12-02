@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --no 664 hello
+chmod --no-preserve-root 664 hello
