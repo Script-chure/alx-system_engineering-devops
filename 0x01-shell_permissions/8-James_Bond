@@ -1,2 +1,2 @@
 #!/bin/bash
-unmask 770 hello
+unmask 007 hello
