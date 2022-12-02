@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --preserve-root 664 hello
+chmod --refrence=olleh hello
