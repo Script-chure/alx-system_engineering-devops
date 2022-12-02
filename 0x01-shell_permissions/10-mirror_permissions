@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --no-preserve-root=olleh hello
+chmod --no-preserve-root=R664 hello
