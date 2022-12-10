@@ -14,3 +14,8 @@ Short descirption of tasks in 0x01.Shell, Permissions:
 12- Creates a directory with the perms. 751.
 13- Changes the group owner of the file hello to school.
 
+Advanced
+100- Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+101- Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+102- Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+103- Write a script that will play the StarWars IV episode in the terminal.
